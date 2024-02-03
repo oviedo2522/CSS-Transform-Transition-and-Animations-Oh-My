@@ -8,6 +8,7 @@ main {
   height: 90vh;
   width: 100vh;
   margin: auto;
+  transform: skewX(-10deg) rotate(-10deg);
   display: flex;
   align-items: center;
 }
